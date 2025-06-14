@@ -75,7 +75,7 @@ fn main() {
             "--output" => {
                 if i + 1 < args.len() {
                     output_path = Some(args[i + 1].clone());
-                    i += 1;C
+                    i += 1;
                 }
             }
             _ => {}

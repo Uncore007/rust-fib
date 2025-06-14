@@ -4,7 +4,7 @@ This project is a command-line application written in Rust to generate Fibonacci
 
 The purpose of this software is to explore Rust's capabilities for numerical computation, command-line argument parsing, and file system interactions. It serves as a practical exercise in learning Rust syntax and common library usage.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/GcozMU_xqds)
 
 # Development Environment
 
